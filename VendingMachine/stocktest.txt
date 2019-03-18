@@ -1,0 +1,4 @@
+Snickers::1.50::1::A1::
+Reese's Cups::1.50::10::A2::
+MnMs::1.00::11::A3::
+Peanut MnMs::1.00::0::A4::

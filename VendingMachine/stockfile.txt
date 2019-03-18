@@ -1,0 +1,20 @@
+Snickers::1.50::9::A1::
+Reese's Cups::1.50::10::A2::
+MnMs::1.00::11::A3::
+Peanut MnMs::1.00::0::A4::
+Skittles::1.50::0::B1::
+Oreos::1.50::2::B2::
+Doritos::2.00::8::B3::
+Ruffles::2.00::6::B4::
+Beef Jerky::4.00::5::C1::
+Granola Bar::1.00::1::C2::
+Corn Nuts::1.50::3::C3::
+Beans::0.50::7::C4::
+Big Beans::0.55::12::D1::
+Mini Beans::0.33::12::D2::
+Diet Beans::0.50::6::D3::
+Kidney Beans::4.00::6::D4::
+Avacado Toast::8.00::2::E1::
+empty::0::0::--::
+empty::0::0::--::
+empty::0::0::--::
